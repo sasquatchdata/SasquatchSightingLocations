@@ -1,0 +1,1706 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Sasquatch Data Project_Locations_1_14_24.kml</name>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_grn-blank">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_grn-blank4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_grn-blank1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_grn-blank0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_grn-blank0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_grn-blank</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_grn-blank4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_grn-blank</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_grn-blank2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_grn-blank3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_grn-blank1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_grn-blank4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_grn-blank1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_grn-blank2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_grn-blank3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_grn-blank2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_grn-blank3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_grn-blank0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ltblu-blank">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ltblu-blank</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ltblu-blank2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ltblu-blank4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ltblu-blank10</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ltblu-blank00</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ltblu-blank2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ltblu-blank2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ltblu-blank3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ltblu-blank3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ltblu-blank3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ltblu-blank4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ltblu-blank0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ltblu-blank1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ltblu-blank</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ltblu-blank00">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ltblu-blank00</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ltblu-blank1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ltblu-blank1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ltblu-blank0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ltblu-blank0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_grn-blank">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_grn-blank3">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_grn-blank0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_grn-blank4">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_grn-blank1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_grn-blank2">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_ltblu-blank2">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_ltblu-blank3">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_ltblu-blank">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_ltblu-blank4">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_ltblu-blank0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_ltblu-blank00">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_ltblu-blank1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_grn-blank2">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_grn-blank3">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_grn-blank1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_grn-blank0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_grn-blank">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_grn-blank4">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_ltblu-blank2">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_ltblu-blank3">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_ltblu-blank1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_ltblu-blank0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_ltblu-blank">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_ltblu-blank00">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_ltblu-blank10">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Folder>
+		<name>Sasquatch Data Project</name>
+		<description>Exact sighting locations of sasquatch in North America</description>
+		<Folder>
+			<name>Alaska</name>
+			<Placemark>
+				<name>BFRO_637</name>
+				<description><![CDATA[<img style="max-width:500px;" src="file:///C:/Users/kayla/Desktop/Sasquatch Data Project/Google Earth Images/Alaska/BFRO_637.png">61°30'57"N 142°53'28"W
+
+My hiking partner and I arrived late to the Kennikot area. We were trying to make it to the camp sites near the glachier but it started getting too dark even for us . So we decided to camp at the first available site . We found a small spot right off the trail so we made camp and hung our supplies in a tree down the trail , started a fire and were just finishing a small meal when I walked to the trail to smoke. I was standing on the trail a few minutes when I noticed what I thought was a man on a bike coming down the trail. I let my partner know, but when I looked back it was still in the same spot. I started looking more closely to see a face or the bike or something. It was then I realized it wasn't a person. It was a large dark form legs spread apart, this is what led me to think it was a person on a bike. The arms were curled at it's side like someone with hands on handle bars. Too big for a bear and the legs were too far apart. I called my partner but when turned back to look at it again it moved very quickly into the woods on two legs. The next day we looked but found no evidence of anything on the trail. I've told this story to a few people but they all think I'm crazy. I hope that this helps. I know what I saw, I guess I'm just hopeing somebody belives me....]]></description>
+				<LookAt>
+					<longitude>-142.8911777277987</longitude>
+					<latitude>61.51573311203821</latitude>
+					<altitude>0</altitude>
+					<heading>-0.003304868589435374</heading>
+					<tilt>42.09873868865002</tilt>
+					<range>1008.500572801574</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ltblu-blank1</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-142.8911111111111,61.51583333333333,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>BFRO_26604</name>
+				<description><![CDATA[It was the month of July, 2009 in Fairbanks Alaska. I was heading south on Auburn Dr toward Farmers Loop which was about 1 mile away. It is a wooded area frequented by homes and in general would be considered a populated area. Houses are on an average of about 100 to 200 feet apart with only the general area around and close to the homes cleared out. Most of the area by far is wooded. It was the section of the road where it passes by Pearl Creek Elementary school. The school can be seen through the woods. Some of the woods in the area are quite thick and in some places can’t be seen into more than about 10 or 15 feet. But in this area, it had apparently been cleaned out quite a bit and sightlines into the section of the sighting were very open. The school and vegetable garden could be seen off to the right from the road I was on. It was about 6pm and I was heading home after a day of working on a deck I was building. The weather was clear with the sun high in the sky. As I was driving, I happened to notice a “man” standing by the right side of the road about 100 yards ahead. It was more of an unconscious recognition. There’s nothing unusual about a man standing on the side of the road in this area. As I got to within about 50 yards, I looked closer. “That’s no man” I said to myself (I was alone in the car). Shortly after that, 1 or 2 seconds, he bolted into the woods towards the school. He did it like a wild animal would do if spooked. I didn’t slow down until I got to the place where I saw him go into the woods which is where I stopped. I could see him running away from the road and when he was into the woods about 30 yards or so, he turned left and was now running parallel to the road in the same direction I was heading. I got a good look at him, but not his face. I could have probably seen his face had I not been so mesmerized and had the presence of mind to look at it. I was busy noticing other things. His fur or hair looked to be about 3 to 4 inches all over the main part of his body. It was a reddish rusty color. I was mildly struck by how red it was, but it definitely had some rustyness to it. He was about 6 feet tall and looked to weigh about 200 lbs. He ran with a strange “Hoppy” kind of run. It wasn’t a limp. With one foot he pushed off with was more a normal running move, but the other foot he pushed off with propelled him upward (about a foot or less) and forward. I watched him until he disappeared into the woods. There was a road about 100 yards ahead and I took off to get to it so I could turn right and in 20 yards turn right again to the road that lead to the school parking lot. So the wooded area he was in was sort of a peninsula and he seemingly had to be in there somewhere. The woods I was looking into from that angle were quite thick and I didn’t see him and haven’t seen him since. A little farther up on the right was the school garden that had people in it (around 7 - 10) which I’m now sorry I didn’t stop to go talk to them about it. The next day as I was driving in to work on the deck, I naturally slowed down in the area I saw him (stopped actually) and was surveying the area when a couple walking their dogs were approaching. I flagged them down and told the story of what happened the evening before and they told me that about a week before they were with their dogs and were on the way other side of the school property by the soccer field and 3 kids came running over to them saying “Did you see the sasquatch, did you see the sasquatch.” They also said that what appeared to be a Dad was with them who didn’t seem to excited about it. My conclusion to whether it was real or not is summed up by saying. “It was either real or there was a man in a VERY, VERY convincing costume.” I reported it to the fish and game office in Fairbanks a couple days later. The person who was taking the report was sort of rolling his eyes through the whole thing as he seemed to be writing it down on a piece of scrap paper-. I even had to ask him to take my phone number just in case.<img style="max-width:500px;" src="file:///C:/Users/kayla/OneDrive/Desktop/Sasquatch Data Project/Google Earth Images/Alaska/BFRO_26604.png">]]></description>
+				<LookAt>
+					<longitude>-147.8127400926963</longitude>
+					<latitude>64.89080569335876</latitude>
+					<altitude>0</altitude>
+					<heading>-0.002395586280301482</heading>
+					<tilt>53.35759971229589</tilt>
+					<range>331.451016757383</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ltblu-blank1</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-147.8128397183047,64.89066947242237,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>BFRO_75309</name>
+				<description><![CDATA[This past spring at approximately mile 106 Richardson Hwy, traveling to Princess Hotel for breakfast on a Sunday morning, about 1/4 before the right turn to Princess Hotel a very Large 2 legged CRITTER ran across the road in front of me and my wife. In 3 steps on a dead run was into the ditch and into the timber. Wish the snow would have been on the ground, but ditches weren't mowed yet. No visible tracks just brush pushed down. Never seen anything afterwards till late summer in August, watching TV late evening I started hearing noises and thought my surround sound was on, muted the tv, randomly heard it, sounds like a wood knock, and frequently I went outside and it was coming from behind the house. I live at mile 109 Richardson, and no neighbors in that direction for quite aways. It kinda freaked me after. I knew what it was but after that I haven't heard anything since. I always carry a sidearm when cutting firewood or just out riding. I truly believe we have a Bigfoot in our area
+
+<img style="max-width:500px;" src="file:///C:/Users/kayla/OneDrive/Desktop/Sasquatch Data Project/Google Earth Images/Alaska/BFRO_75309.png">]]></description>
+				<LookAt>
+					<gx:TimeStamp><when>2023-05-27</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-145.3422711175895</longitude>
+					<latitude>61.96786477461945</latitude>
+					<altitude>0</altitude>
+					<heading>0.0002292650637055247</heading>
+					<tilt>30.00057406187558</tilt>
+					<range>127.5379962930412</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ltblu-blank1</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-145.3423410133694,61.96780792470123,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Alabama</name>
+			<Placemark>
+				<name>BFRO_961</name>
+				<description><![CDATA[<img style="max-width:500px;" src="file:///C:/Users/kayla/OneDrive/Desktop/Sasquatch Data Project/Google Earth Images/Alabama/BFRO_961.png">
+
+
+I stopped my car to go to the bathroom because I had to go bad and in the woods next to the road there was a horrible hairy man-like creature. It walked toward me and snorted. I was so scared. It had what looked like a small limb or something in its hand. It came up to three feet of me, grunted and walked off. I ran back to the car and got away. I saw it standing in my rear view mirror as I drove away. It was at the edge of the road. I think this monster is dangerous.]]></description>
+				<LookAt>
+					<longitude>-88.07279092490026</longitude>
+					<latitude>31.44682675472287</latitude>
+					<altitude>0</altitude>
+					<heading>-86.82088651473288</heading>
+					<tilt>46.28074905321397</tilt>
+					<range>100.6424527483259</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ltblu-blank4</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-88.07279092490026,31.44682675472288,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>BFRO_65679</name>
+				<description><![CDATA[<img style="max-width:500px;" src="file:///C:/Users/kayla/OneDrive/Desktop/Sasquatch Data Project/Google Earth Images/Alabama/BFRO_65679.png">
+
+31°13'02.34" N  88°18'27.25" W
+
+I was driving home from work in the afternoon and completely preoccupied with thoughts of my struggles. When my eyes caught something. However my mind was still not focused other than I was waiting for movement of sorts. It’s second nature to keep a eye out for deer in this area. When I finally noticed that I was looking at something unusual. I saw a tall hairy animal walking off into the woods (on two feet) from the road. It had long blonde to light brown hair all over. I never saw the face. I kept my eyes focused on the woods where it walked into. When I reached that spot I was completely shocked at the size that creature was. It had to be at least 9 - 10 feet tall. The only thing I could think of was Bigfoot.
+
+
+Note: I have never been a believer of Bigfoot before but what I saw that day is something I can’t stop thinking about.]]></description>
+				<Camera>
+					<gx:ViewerOptions>
+						<gx:option enabled="0" name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-88.30691615251972</longitude>
+					<latitude>31.21661209651161</latitude>
+					<altitude>2.500000000423187</altitude>
+					<heading>-38.44022246229495</heading>
+					<tilt>90.00000145935651</tilt>
+					<roll>-0.01902675003325066</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#msn_ltblu-blank4</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-88.30756918221107,31.21731570095113,53.47452377704104</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>BFRO_30680</name>
+				<description><![CDATA[<img style="max-width:500px;" src="file:///C:/Users/kayla/OneDrive/Desktop/Sasquatch Data Project/Google Earth Images/Alabama/BFRO_30680.png">
+
+I was canoeing on the Sipsey river in Alabama. It was dusk as I was pulling out of the river and I was trying to hurry to get all my gear in the car before it got dark as it was about a 60 yard walk up this steep hill to where my car was. Just as I was flipping the canoe up to put on my shoulders I heard this very loud "WHOOOOP, WHOOOP, WHOOOP, WHOOOP", then a pause then three more whoops. I 've been in the woods enough to know it was not an owl or like any sound I've EVER heard in the woods or on a river. Too loud, too powerful. It felt like it came frome about a quarter to a half mile away. It scared the piss out of me. You've never seen a guy hustle a 75 lbs canoe on their shoulders and practically run up the hill. I didn't even tie it on properly until I got up to the highway. The weird part was I had been watching the Monster Quest series and the month before had come down the same river and thought "This area looks just like that crap they show in the Pacific Northwest where those bogfoots are. Wonder if there were ever any bigfoots in Alabama?" So I did an internet search and it surprised the crap out of me and found a whole freakin website about Alabama Bigfoots. Those sounds I heard sounded just like the whoops you have on this web site. Of course after watching those shows it could have been somebody doing that call blasting thing but I had emailed the Alabama Research people and they said they did not have anyone working that area at that time(AUG 2010). Over the last year I have had a few "unusual" moments in this area. No sightings but well, I'm short on time. The WHOOOPS were the important thing, scared the hell out of me.]]></description>
+				<LookAt>
+					<gx:ViewerOptions>
+						<gx:option enabled="0" name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-87.3683761835957</longitude>
+					<latitude>34.21794958743308</latitude>
+					<altitude>0</altitude>
+					<heading>120.6882592282175</heading>
+					<tilt>80.3940849177615</tilt>
+					<range>46.402653469351</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-87.36883333333333,34.21813333333333,169.1436505791745</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>BFRO_71896</name>
+				<description><![CDATA[beautiful morning. Sun shining and clear. There is an area of nothing but trees and brush which goes on for a mile or two. After that the road goes into a "s" turn which is probably a mile or so in length. Coming into the last right hand part of the s turn, I saw what I first thought was a man running from the left to the right across the highway. I thought, "what is this guy doing running across the highway out here?" I could see shoulders moving and arms swinging. It was upright and fast, but I couldn't see any other detail from my distance. It just seemed really dark brown or black. I couldn't make out shoes or clothing or skin. Whatever it was, it did not slow down once it had made it across the road. It continued at the same speed into the trees. I slowed down almost to a stop where it appeared to enter the trees. I could see into the trees a good distance, but saw nothing. It was gone.
+
+<img style="max-width:500px;" src="file:///C:/Users/kayla/OneDrive/Desktop/Sasquatch Data Project/Google Earth Images/Alabama/BFRO_71896.png">]]></description>
+				<LookAt>
+					<gx:TimeStamp><when>2023-05-27</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-87.64893245278617</longitude>
+					<latitude>30.31781913522867</latitude>
+					<altitude>0</altitude>
+					<heading>9.171334503605503e-05</heading>
+					<tilt>26.20497592311493</tilt>
+					<range>203.1743884953862</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ltblu-blank1</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-87.64916583384304,30.317768914649,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>BFRO_1907</name>
+				<description><![CDATA[A large creature, about 6.5 feet tall and covered with hair, crossed the road in front of me in broad daylight at about 3 PM. The creature crossed the road just below the top of the hill and moved in a sideways fashion. I had the window down in my car and I clearly heard a scream unlike any I have heard before in my life.
+
+<img style="max-width:500px;" src="file:///C:/Users/kayla/OneDrive/Desktop/Sasquatch Data Project/Google Earth Images/Alabama/BFRO_1907.png">]]></description>
+				<LookAt>
+					<gx:TimeStamp><when>2022-12-16</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-87.96186956264516</longitude>
+					<latitude>31.58550808120697</latitude>
+					<altitude>0</altitude>
+					<heading>-1.817181976220483e-05</heading>
+					<tilt>25.28998985119978</tilt>
+					<range>290.1995924199523</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ltblu-blank1</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-87.96193237412895,31.58546723814238,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>BFRO_22969</name>
+				<description><![CDATA[Suspicious knocking was heard about 3:00 am as my husband was camping with Boy Scouts on the side of a ridge SE of Henderson Peak about 200 yds from State Rd. 281. (topozone.com map 33° 27.85'N, 85° 52.21'W - across road from red #13 about 200 yds. ) This is just south of the Cheaha State Park line. It was about 14 degrees with intermittent howling wind. There were 3 sets of 2 knocks each about 100 yards north of the campsite described as “a piece of firewood hitting another.” It was very loud and the knocks, though themselves rhythmic, were spaced so that the wind died down before they occurred again. These were not little limbs hitting each other and he was not able to determine if there were any responses because of the wind. There were no campers north of them and the only other campers on the mountain that were encountered was another Boy Scout troop camping about 4 miles away directly on Lake Chinobee. My husband is an avid bfro.net browser (and hopeful member of a future BFRO expedition :-) who awoke and immediately felt that this was consistent with other knocking activity. Due to the inclement conditions and not wanting to scare the younger kids in camp, he did not have a chance to follow up. Although he didn’t mention the sounds the next morning, another adult did, and with careful, roundabout questioning all other factors for the sounds were excluded (trees falling, wind, limbs hitting each other due to the wind, etc). I am typing this since he was “not sure” of the cause of the sounds and was reluctant to report something that may not have been genuine (since he wasn’t able to go look for tracks)
+
+<img style="max-width:500px;" src="file:///C:/Users/kayla/OneDrive/Desktop/Sasquatch Data Project/Google Earth Images/Alabama/BFRO_22969.png">]]></description>
+				<LookAt>
+					<gx:TimeStamp><when>2022-12-16</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-85.87237862515512</longitude>
+					<latitude>33.45389464118818</latitude>
+					<altitude>0</altitude>
+					<heading>-0.0002374267183597909</heading>
+					<tilt>50.94145115811401</tilt>
+					<range>373.9550164265</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-blank</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-85.87250535816024,33.45332116783167,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>BFRO_67423</name>
+				<description><![CDATA[Me and my wife and two girls were going to see my parents who live in Cleburne county AL and my daughter who had not long gotten her drivers license was driving and I was up front in the passenger seat and my wife and other daughter was in the back. We had just gotten of the interstate and had turned down the long back road that takes us to my parents . And as we came over a hill and something huge and black darted across the road on two feet and into the woods about 50 yards ahead . My daughter said what was that I was like I have no idea , it was massive and very wide across the shoulders and it’s head seemed to just sit on top of its huge shoulders, like this thing was taller and wider than anything I’ve ever seen and moved with unreal speed . My daughter didn’t really get a good of look at it she just seen something big zip across the road , but I seen it long enough to see it was standing up on two feet and really big and I guess what stands out to me the most is just how wide it’s upper body was big enough to know that no other animal could even come close especially around here, and it’s height I’m just guessing but it seemed easily 8 feet . I still can’t believe that something like this actually exist I mean how can something that big not be seen more ,you hear the stories but to see something like this that you can’t explain, and you know most people will not believe you but I guess now I’m a believer
+
+<img style="max-width:500px;" src="file:///C:/Users/kayla/OneDrive/Desktop/Sasquatch Data Project/Google Earth Images/Alabama/BFRO_67423.png">]]></description>
+				<LookAt>
+					<gx:TimeStamp><when>2022-12-16</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-85.41960201973889</longitude>
+					<latitude>33.64339538370883</latitude>
+					<altitude>0</altitude>
+					<heading>25.42179775307269</heading>
+					<tilt>46.47013661412444</tilt>
+					<range>99.78520391307906</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-blank</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-85.41962315135193,33.64339652489957,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>BFRO_75577</name>
+				<description><![CDATA[My husband and I heard strange sounds for 2 nights in February 2023 and laughed about how they sounded like the Bigfoot sounds on television shows. The 3rd night at dusk we were on our carport looking into the woods that border our property in Heflin (Cleburne County) Alabama. We saw what looked like Bigfoot peeking around a tree at us. We watched it for approximately 5 minutes as it appeared to look at us from the left then the right [of the tree trunk]. I dismissed it as being a distortion with the trees and wind. I turned to go into the house and looked back and distinctly saw what could only be Bigfoot running away. I yelled for my husband and he also saw it running away. It had our hearts beating wildly and the hair standing up on our arms. There was no mistaking what we saw!
+
+<img style="max-width:500px;" src="file:///C:/Users/kayla/OneDrive/Desktop/Sasquatch Data Project/Google Earth Images/Alabama/BFRO_75577.png">]]></description>
+				<LookAt>
+					<gx:TimeStamp><when>2022-12-16</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-85.5231238508722</longitude>
+					<latitude>33.65210058771743</latitude>
+					<altitude>0</altitude>
+					<heading>0.1933271789328986</heading>
+					<tilt>23.74910012781471</tilt>
+					<range>233.3736464343056</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ltblu-blank00</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-85.52333412547964,33.65166485913986,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>BFRO_39620</name>
+				<description><![CDATA[My first sighting was in December 2012. It was about 12 midnight and I was on my way home. It was raining, not to hard but steady. I was going down the highway through the country side and on each side of the road up ahead were guard rails with woody swamps on each side. My headlights lit up the reflectors on the guard rails all the way down them. About mid way down the rail I saw a black space, almost like a gap in the rail. Once I got a little closer I realized it was some type of animal. It looked hairy, and as if it were standing over the rail crossing it. But before I got close enough to see, it had went into the woods. But it was big and I honestly didn't really know what it was, so I didn't think much of it until, about a week or so ago.
+
+<img style="max-width:500px;" src="file:///C:/Users/kayla/OneDrive/Desktop/Sasquatch Data Project/Google Earth Images/Alabama/BFRO_39620.png">]]></description>
+				<LookAt>
+					<gx:TimeStamp><when>2022-12-16</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-85.86528727128049</longitude>
+					<latitude>34.0416197933209</latitude>
+					<altitude>0</altitude>
+					<heading>8.300191726757213e-07</heading>
+					<tilt>22.52987979116044</tilt>
+					<range>257.4953430439697</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ltblu-blank00</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-85.86531215826734,34.04168356613581,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>BFRO_25559</name>
+				<description><![CDATA[I was staying at the Marriott hotel 6th floor in Huntsville Alabama at the Space and Rocket Center-At 5:40am on Feb 24th 2009 I went on the balcony to drink my coffee as the room was too stuffy and hot. I was out there just thinking and staring off at the woods when something caught my eye--after refocusing on it I realized there were legs, then arms, then I could clearly make out his face. The creature stood 6-7ft tall and was staring directly back at me-it seemed to have fine hairs all over -grey color hair that got more black as the hair got closer to the skin--the tips of the hair were much lighter--the face (lips, eye lids, etc) were more of a very dark brown-it stood very erect, was very muscular, and did not seem to have the apelike protruding mouth and nose but more flat faced human like--after 30 seconds he started rocking back and forth--I then realized this was moving and could in no way be mistaken for a dear or bear or anything else--this was a fully erect apelike animal that seemed to want me see him --he was rocking back and forth from side to side. After the initial 30 seconds he rocked for about 10-12 seconds then stood and stared at me --I was on the 6th floor about 120 yards away in decent lighting due to hotel lights and street light behind loading area of hotel-he then would stare back then he would remain face forward with feet only about 2 feet apart would lean over to his left with his right arm would start pulling bark off a very large pine tree--it looked as if someone were in a sawing position--then he would stand up stare at me then rock and then pull bark--this was done in that order 3 times over a 5-6 minute period--after five minutes of re-verifying what I was looking at I felt this creature was docile and smooth moving--I decided I would try and get a closer look--as I opened the sliding glass door he stared and I stared back--I ran out of the hotel room and there was security in our hall laying the morning news at the hotel room doors--I asked him to come with me and asked for back up since he had no gun--we ran around the corner outside - as we were running I Finally got the nerves to tell them what I saw--we get to the reference points I had chosen and there were a lot of fresh bark removed from the large pine tree--I tried to pull bark from it to no avail -- it was too hard--I am 6'4" 300 lbs. I went back after 7am (light) -- I did notice what looked like scat --it took the form of explosive diarrhea and looked like a hundred birds had pooped in a small area--like in a shotgun pattern-heavy in the middle and lighter to the outside perimeter-I put a large handful in a Marriott laundry plastic bag--It looks like feces and digested berries and seeds. (It was dry although it had rained the night before) One of the Marriott employee's saw two large footprints --more like deep indention's in the pine straw--I took off my shoe and placed my foot in it and there was about a one inch area all the way around my foot in order to fill the indention--Something very heavy had to make these indention's--I tried and I am 300lbs and could not. I am 100% positive of the above discription--I watched this clearly for 5-6 minutes!
+
+<img style="max-width:500px;" src="file:///C:/Users/kayla/OneDrive/Desktop/Sasquatch Data Project/Google Earth Images/Alabama/BFRO_25559.png">]]></description>
+				<LookAt>
+					<gx:TimeStamp><when>2022-12-16</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-86.64940873984973</longitude>
+					<latitude>34.71030462459758</latitude>
+					<altitude>12.98286925215825</altitude>
+					<heading>92.78161869290429</heading>
+					<tilt>56.46905930430224</tilt>
+					<range>147.6609957876208</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ltblu-blank00</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-86.64980855386746,34.71033376449573,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>BFRO_18043</name>
+				<description><![CDATA[a long story here. it is now march 3, 2007. i live in guntersville alabama. i have spoke to some of the employees just as conversation. the story is this. about 15yrs ago, my wife, and two children were leaving our home in honeycomb, just north of guntersville off of hwy. 431 at the bottom of grant alabama. we were in route to wal-mart. about 8-9pm probably mid summer. a well lit seems full moon night. we lived 4mi. around past the lake in honeycomb. i was driving my old hot-rod a 1964 ford. there are some persons by the last name of (name removed by investigator) who always have dogs in the street at their house by the lake. the road white elephant rd. run by the waters edge in front of their home. the road is about 4ft off of the shore line. the (name removed by investigator) s had two st. bernard dogs along with their other dogs. that particular night driving past i saw in the water walking away from the road and shore a large 8'sasquache. i looked back in my rearview mirror, and still turned around to look thru my back glass. my wife saw my dismay, and quickly ask what’s wrong, she at that time looked back, i always drive slow by their house as the dogs are always in the road, so she had time to look, all she saw was the ripples in the water, as we passed a few trees. it was a full moon night, and no wind-calm waters. now what i saw was the 8' sasquatch carrying one of the st. bernard heads. i in the time that drove by slowly saw the bigfoot from the knees up, carrying the head of the dog, some flesh was hanging from the neck area. the head was in the bigfoot's left hand. he was carrying it from the dog hair at the top of the dog head. i said to my wife at that time that if one of those dogs came up missing that the sasquatch was the reason why. however both dogs came up missing and we never saw them again after that time. now story up to date. telling the story to many persons in the years passing, as people tell stories, i finally told the guys at the tva where i work as a contractor for the government. my relationship with mr. (name removed by investigator) is just knowing each other from the window of our vehicle as we would wave to one another, as our children road the school buss with each other. i finally one day about 4yrs ago asked him what happened to his dogs, and told him the story of what i saw. he said one of the dogs died in huntsville alabama at his mothers home, and the other died at his home in honeycomb and he buried it behind his house. now. i didn't push the issue of letting me dig up the dog's corps as it would be kind of tacky. but if you guys want to contact me and send some investigators to check and see if mr. (name removed by investigator) would allow you to dig up the corps to see if its head is missing, you may get some clues or even some hair form the sasquatch. however if the head is still attached, then i was hallucinating the whole thing, and my wife would just imagined the water ripples too. i don’t do drugs, or smoke dope, and didn't at that time either. the only thing running thru my veins is good wholesome native american blood. i would love to participate in pursuing this investigation if there will be one.
+
+<img style="max-width:500px;" src="file:///C:/Users/kayla/OneDrive/Desktop/Sasquatch Data Project/Google Earth Images/Alabama/BFRO_18043.png">]]></description>
+				<Camera>
+					<gx:TimeStamp><when>2022-12-16</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-86.29822066002123</longitude>
+					<latitude>34.46407034976521</latitude>
+					<altitude>151.4583348386165</altitude>
+					<heading>-8.522664026472524</heading>
+					<tilt>0.9878243896069858</tilt>
+					<roll>0.8697487982313703</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#msn_ltblu-blank00</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-86.29837054475814,34.46401212828673,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>BFRO_17168</name>
+				<description><![CDATA[My mother and I were en route to Mobile,AL from Boothville, LA. It was approximately 2 A.m. We left Interstate 10 travelling north towards the Dawes community where my mother grew up and most of our family still reside. We crossed the smaller of two bridges in close proximity to one another when we saw what we first thought must be a VERY large dog sitting in the opposite lane of the road. As we approached we saw the creature was sitting on haunches as a dog would but was face to face with us in the car ( an 80's model pontiac parisienne). It showed no fear and did not so much as budge as we passed it, it did turn it's head and watch us as we drove by. Unlike a dog the creature had a human like face that was the only part of its body not covered in long reddish brown hair. Even seated on its haunches the creature was about the height of an average man. It was more slender in build than the average "Bigfoot" we have seen portrayed in reports of sightings in the northern part of the US. We don't want to say this was a bigfoot but after watching a special on the history channel my mother and I agree that the similarities are enough to contact you and see what you think. We would like to add that local legends about the "Grand Bay Wolfman" are numerous and we heard stories about the " hairy man monster " that likes to sit on bridges at night our entire lives, but up until we saw this thing for ourselves we never took them seriously.
+
+<img style="max-width:500px;" src="file:///C:/Users/kayla/OneDrive/Desktop/Sasquatch Data Project/Google Earth Images/Alabama/BFRO_17168.png">]]></description>
+				<LookAt>
+					<gx:TimeStamp><when>2022-12-16</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-88.34451702252774</longitude>
+					<latitude>30.55422734487976</latitude>
+					<altitude>0</altitude>
+					<heading>-6.705502689408206</heading>
+					<tilt>2.924828243017032</tilt>
+					<range>148.2179210293011</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ltblu-blank00</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-88.34449945845228,30.55438548239605,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>BFRO_435</name>
+				<description><![CDATA[oct 10 2000 valhermosa springs morgan county alabama. I and my husband were driving down cabbage patch, a narrow gravel road near pine thicket, looking for deer when husband said what is that. I looked and said what the heck is that. I saw a large brown object slightly bent over as if to pick up something. it raised straight upon two legs had long arms broad shoulders and stood about 7 to 8 foot tall, very hairy. about that time it ran in to the pine thicket with the speed of lighting. We were about 20 to 30 yards from it. we went back to the sight the next morning and we found a small foot print about 8 inches long and a big foot print about 13 inches long in sight of where we seen it. we found some hair on a fence and metal poles that have been step on and bent over the fence was pulled up off the post and bottom fence all the way to the ground. we found a percimon in the area that it was seen and there was no percimon tree no where around. the sightening was about 1:30 pm CST it was about a 1/2 a mile from my house
+
+<img style="max-width:500px;" src="file:///C:/Users/kayla/OneDrive/Desktop/Sasquatch Data Project/Google Earth Images/Alabama/BFRO_435.png">]]></description>
+				<LookAt>
+					<gx:TimeStamp><when>2022-12-16</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-86.65171272648561</longitude>
+					<latitude>34.53858908133072</latitude>
+					<altitude>0</altitude>
+					<heading>-11.97257751253174</heading>
+					<tilt>13.83445538378106</tilt>
+					<range>238.9303488305223</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ltblu-blank00</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-86.65198929375386,34.53857161037403,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>BFRO_8171</name>
+				<description><![CDATA[I was coming home from work, turning off a major 4 lane hiway. After aproximately 1/4 mile, near a new subdivision, I saw something moving very fast, as it ran across the hiway in front of my car. It appeared to be 8 to 10 feet tall, with reddish-brown looking hair. It didn't look at me, but I noticed long hair from its arms, legs and also shoulders. It moved across the road, it appeared, in 4 to 5 strides running.
+
+<img style="max-width:500px;" src="file:///C:/Users/kayla/OneDrive/Desktop/Sasquatch Data Project/Google Earth Images/Alabama/BFRO_8171.png">]]></description>
+				<LookAt>
+					<gx:TimeStamp><when>2022-12-16</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-86.64538327500868</longitude>
+					<latitude>33.36270378175549</latitude>
+					<altitude>0</altitude>
+					<heading>-1.471553007277535</heading>
+					<tilt>11.0218710669211</tilt>
+					<range>249.1915417355222</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ltblu-blank00</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-86.64544960342891,33.36268733728799,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>BFRO_43217</name>
+				<description><![CDATA[This happened in 1988 in Nauvoo AL. I was 14 years old. I was at home in my living room watching TV and my brother was outside working on a car. We were the only ones at home. The front door was located in the living room. We never used this door because we had no steps to it and the door was about 4 feet from the ground. So we used the back door of the house. I was sitting on the couch watching TV when the door began to move and the door knob was turning. The only thing holding the door shut was a nail someone had nailed at the top of the wall and bent it over to hold the door shut. I first thought it was my brother but he knew we didn't use the door. As the door was moving just a little I noticed at the bottom of the door where there was a gap, 3 fingers slide under the door. My heart began to beat faster, I tried to move but I couldn't at first. Then I wanted so bad to look out the window beside the door but I was too scared. These fingers were very long and the nails were long too and black. The hand like finger had hair on it dark brown. The hair was long. This only lasted for 3 min. When the fingers move out from the gap the door knob and the door stop moving. About 45 min. later my brother came inside and I asked him why he was trying to use the front door he said he hadn't. I didn't tell him what happened until sometime later. Because of fear he wouldn't believe me and the fear of him using this to scare me later on
+
+<img style="max-width:500px;" src="file:///C:/Users/kayla/OneDrive/Desktop/Sasquatch Data Project/Google Earth Images/Alabama/BFRO_43217.png">]]></description>
+				<LookAt>
+					<gx:TimeStamp><when>2022-12-16</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-87.37761413598585</longitude>
+					<latitude>33.89212807682753</latitude>
+					<altitude>0</altitude>
+					<heading>-0.003247761739921492</heading>
+					<tilt>30.0008664536787</tilt>
+					<range>192.7472345384996</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ltblu-blank00</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-87.37773601237593,33.89205253504441,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Arkansas</name>
+			<Placemark>
+				<name>BFRO_41827</name>
+				<description><![CDATA[I had been visiting a friend one night. It had gotten late and I had to work in the morning, so I got in my car to leave. On my way back to the main road, I stopped at a stop sign. Out of the corner of my eye I saw something moving in the trees. I looked over and an upright figure came out of the woods towards my car. I would estimate it was 7' to 7'5" tall with dark brown hair with grey patches on the chest and face. I drove away, quickly, because it was coming towards my door. As I drove, in the rear view mirror I saw it cross the road in about 2 steps, then I lost sight of it.
+
+<img style="max-width:500px;" src="file:///C:/Users/kayla/OneDrive/Desktop/Sasquatch Data Project/Google Earth Images/Arkansas/BFRO_41827.png">]]></description>
+				<LookAt>
+					<longitude>-92.30133875295527</longitude>
+					<latitude>36.39257817967143</latitude>
+					<altitude>0</altitude>
+					<heading>-3.999526148998583</heading>
+					<tilt>7.356272992986388</tilt>
+					<range>119.6639230005172</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-92.30138912623886,36.39249721518103,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>BFRO_55376</name>
+				<description><![CDATA[It was Jan of 03 in Baxter County AR. location Hwy 62 and 101 intersection. Time 2 to 3 a.m. Cold clear winter night. Coming home from fishing as we rounded the 30 mph curve right before the stop sign we were headed south on 101 an animal walking upright came into clear view as "he" was in my high beams and was on the west side shoulder. My buddy Joe who was with me and I said not a word to one another. We were now at maybe 20 mph as we watched this big critter who was standing upright take one step and went from the far side of the shoulder to the center line. Where "he" paused for a moment, looked us up and down altho we felt no fear from it Joe and I each felt like "he" looked at each one of us, me first then Joe. before turning his head straight . Then he leaned forward and put his knuckles on the pavement and swung his hips through his arms and was now on the far side of the east shoulder. And was gone.
+
+<img style="max-width:500px;" src="file:///C:/Users/kayla/OneDrive/Desktop/Sasquatch Data Project/Google Earth Images/Arkansas/BFRO_55376.png">]]></description>
+				<LookAt>
+					<gx:TimeStamp><when>2022-12-16</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-92.27028906390221</longitude>
+					<latitude>36.37433188329935</latitude>
+					<altitude>0</altitude>
+					<heading>-129.1202920152366</heading>
+					<tilt>11.17608056243148</tilt>
+					<range>268.1798450176882</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ltblu-blank00</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-92.27019578869245,36.37434965505881,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>BFRO_6178</name>
+				<description><![CDATA[In early to mid October of 1981 I was 17 years old. I was working weekends in Fayetteville, a town 28 miles from where I lived in Siloam Springs. I usualy left for work around 5:30am.I would drive the old highway #68 towards Fayetteville-Springdale. One morning I was on my way to work and as I was coming close to where Fairmount road was I could see something by the bridge at first I thought it was a coyote or large dog scratching around the bridge with its back legs as I got closer I realized it was not and that it was a sasquatch, it was a reddish-brown color, I could see its face area had almost no hair and the skin tone was lighter than the rest of it. It looked up at me as I passed on over the bridge, my car was a vw bug and the lights were not very bright, it seemed to be startled. I lokked into the rearview mirror to see it jump up and run across the road. It moved in long strides and very quickly. It was tall maybe close to 7 feet and was thinner than I would have expected it to be. The activity it seemed to be doing when I first saw it was digging at the ground next to the bridge the motion it was using was similar to what primates do, the manner in which it moved across the road was however more like a human would move.
+
+<img style="max-width:500px;" src="file:///C:/Users/kayla/OneDrive/Desktop/Sasquatch Data Project/Google Earth Images/Arkansas/BFRO_6178.png">]]></description>
+				<LookAt>
+					<longitude>-94.44065188733748</longitude>
+					<latitude>36.25228105916845</latitude>
+					<altitude>0</altitude>
+					<heading>-10.40960423684721</heading>
+					<tilt>20.97576309566801</tilt>
+					<range>126.3700157114594</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-94.44062121931098,36.25223688794009,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>BFRO_36178</name>
+				<description><![CDATA[July 29, 2012 my family and I were traveling home from our vacation in Mississippi. We were on a double lane highway in south eastern AR when I saw a tall, large, greyish haired creature standing on his legs, run across the highway about 300 feet in front of my van. It never looked at me, it just ran across the highway. I was so shaken up by what I saw. It was like a human but big and grey haired.
+
+<img style="max-width:500px;" src="file:///C:/Users/kayla/OneDrive/Desktop/Sasquatch Data Project/Google Earth Images/Arkansas/BFRO_36178.png">]]></description>
+				<LookAt>
+					<longitude>-91.21953517953868</longitude>
+					<latitude>33.26925840846476</latitude>
+					<altitude>0</altitude>
+					<heading>6.359604646245692e-05</heading>
+					<tilt>21.40325165119436</tilt>
+					<range>319.4065097827293</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-91.21970929182592,33.26926307881009,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>BFRO_3519</name>
+				<description><![CDATA[In the spring of 1984, I had been working with for the (undisclosed) in Arkadelphia, AR. That particular day we had to paint some boundry line around an area near Biern, AR, just southwest of Gurdon, AR. It was in the afternoon and I had already finished "brushing" out the line for the others to paint the dots on the tree. I knew of an old black man that lived in a little shack not far from there. He ALWAYS had an old loggers helmet on, carried an ole filled 22, and only wore blue overalls and a white shirt. After I had finished, I made my way back to the truck which was on a road that was near the railroad tracks. These tracks went through the middle of Biern. As you pull into Biern from hwy 67, you cross these tracks and then turn right for approx. 2 miles. The road then T's and can go to the right to cross the tracks again. In 1984, the road only went about another 1\4 mile before turning back to the right back to 67. Our truck was parked on that last turn that goes back to hwy 67. I had made my way onto the tracks to wait for the others. I wasn't quite a 1\4 mile from where the road crosses over the tracks. The signs that let you know of the tracks are maybe 8 ft. high. When I noticed something on the tracks at that cross-over, I noticed that it "appeared" to be another foot taller. That could have been an optical illusion at that distance. I noticed that I could not see the silver hard hat that the old man always wore, or the white shirt, or the gun. This thing, what ever it might have been stopped on the trakcs and turned. But when it turned, it had to turn the whole upper torso as though it had a stiff neck. It was mostly dark in color, it did have some lighter spots on it. It appeared to take a step towards me when another logging companies truck gun it's motor and startled the creature. It seemed to notice this, turn and take two steps to get into the woods. If you have ever been down the tracks of the railroad, you know that it would be impossible for a normal man to make that kind of distance in only two steps. You have to take into consideration that I was only 18 at the time and still had a pretty vivid imagination. Even with the evidence I had at that time, I questioned what I might have really seen. It wasn't until later that I found out that there have been many sightings of some creature in that part of the woods. A buddy of mine told me that his grandmother lived in that area and had trouble from a two legged creature getting into her garbage at night. He said that there was only one time that the creature came up on her back porch and look into her window. She said that it looked somewhat like a monkey. She never admitted that she was scared because it never threatened her in any way. This story sort of validated mine. This is not the only time that I have seen a creature out int woods. This occurence happened about 20 to 30 miles away from this. I will try to tell it later.
+
+<img style="max-width:500px;" src="file:///C:/Users/kayla/OneDrive/Desktop/Sasquatch Data Project/Google Earth Images/Arkansas/BFRO_3519.png">]]></description>
+				<LookAt>
+					<longitude>-93.23690262832852</longitude>
+					<latitude>33.87882043168948</latitude>
+					<altitude>0</altitude>
+					<heading>-6.788566026877781</heading>
+					<tilt>2.459940535703032</tilt>
+					<range>295.3354764468224</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-93.23693216438387,33.87873007809437,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Oregon</name>
+			<Placemark>
+				<name>BFRO_7662</name>
+				<description><![CDATA[I was 15 years old in 1984 and lived past the town of Molalla in Dickey Prairie and our house sat right on the river. It was early evening right before dusk. My girlfriend and I were down almost under the bridge where we swam in the summer. It was still warm right before school started. I guess we were just goofing off down there. It was the best thing to do out in the country, we had so much freedom. We wandered the hills, forest and old logging roads all the time. I really don't remember what made us look across the river at exactly the same time. Maybe it was a sound or just a feeling. And it was only a flash. But between the trees I saw a huge manlike being running. It was dark in color, dark brown to almost black. And covered in hair. It had to be about 71/2 feet tall. I had lived out there and being a tomboy. I had prowled all through the woods. I had never been scared out there alone and even miles from home on my horse. What I saw was not a bear or a friend playing a trick. The way it ran was so human like. The way the arm was bent at the elbow and the knee. It stood up just slightly stooped. And it ran fast. It gave us a quick look while it was running and disappeared. We looked at each other and we ran home. As soon as we reached the house we talked. We had both seen the same thing. We ran inside the house to tell my parents. But of course no one belived.
+
+<img style="max-width:500px;" src="file:///C:/Users/kayla/OneDrive/Desktop/Sasquatch Data Project/Google Earth Images/Arkansas/BFRO_7662.png">]]></description>
+				<LookAt>
+					<longitude>-122.4886828093978</longitude>
+					<latitude>45.083663175077</latitude>
+					<altitude>0</altitude>
+					<heading>2.796574192925568</heading>
+					<tilt>6.706886224539979</tilt>
+					<range>181.7546047132824</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-122.4888713641465,45.08360494870266,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>BFRO_3441</name>
+				<description><![CDATA[I am submitting this report for the witness. The sighting was viewed from the witness’s home, through the window. The creature was viewed at a distance of approximately 130 feet when a car’s headlights backlit the creature as it ran from left to right across the road from the witnesses perspective. The occupants of the car where not identified or contacted, but did stop a short distance from the creature, insinuating that the driver also observed the sighting. The creature was running fast, upright, very hairy, humanoid in appearance, and estimated to be 7 feet tall (definitely larger than the witness who is 6’3”). The local dogs were barking excitably, which is why the witness looked out the window. A search for footprints with flashlights was unsuccessful for finding clues or footprints. However, the ground is moist and soft, and it is currently not precipitating, so there may be fresh prints or evidence still available in the morning.
+
+<img style="max-width:500px;" src="file:///C:/Users/kayla/OneDrive/Desktop/Sasquatch Data Project/Google Earth Images/Oregon/BFRO_3441.png">]]></description>
+				<LookAt>
+					<longitude>-121.9122260258551</longitude>
+					<latitude>45.33154670146742</latitude>
+					<altitude>0</altitude>
+					<heading>-8.608406786118284</heading>
+					<tilt>10.4899481114596</tilt>
+					<range>159.4135884105193</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-121.9122524176959,45.33163368039846,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>BFRO_44989</name>
+				<description><![CDATA[We heard three unbelievably low-toned grunts outside of our tent at dawn (around 5 am) on Tueday, September 24th, 2013. Our tent is about 7 feet high when set up and the grunts sounded about a foot or two higher than the tent and about 6 feet away. The grunts sounded like "huuhhh-huuhhh-huuhhh," very low pitched.
+
+<img style="max-width:500px;" src="file:///C:/Users/kayla/OneDrive/Desktop/Sasquatch Data Project/Google Earth Images/Oregon/BFRO_44989.png">]]></description>
+				<LookAt>
+					<longitude>-122.1056372546811</longitude>
+					<latitude>45.15099256369867</latitude>
+					<altitude>0</altitude>
+					<heading>-0.001934603591252823</heading>
+					<tilt>49.08763000044699</tilt>
+					<range>319.5283120750096</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-blank2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-122.1057724092223,45.15053424450142,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>BFRO_3148</name>
+				<description><![CDATA[On September 20th, 2001 at approximately 11:30p.m. my wife was returning from Portland to the coast. She stopped at the rest area on Highway 26 (which I believe is at about the 27 mile marker) to let our dog out. While there she heard what she described as an "eerie" scream coming from the southeast and lasting about 4-5 seconds. She said that it was far enough away that it didn't scare her.As described the scream would have come from across Highway 26 and in an area where there has been some activity (see reports under Clatsop County). I played the recordings on this website for her, and she said it sounded like Matt Moneymaker's Ohio recorded scream.
+
+<img style="max-width:500px;" src="file:///C:/Users/kayla/OneDrive/Desktop/Sasquatch Data Project/Google Earth Images/Oregon/BFRO_3148.png">
+
+<img style="max-width:500px;" src="file:///C:/Users/kayla/OneDrive/Desktop/Sasquatch Data Project/Google Earth Images/Oregon/BFRO_3148_2.png">]]></description>
+				<LookAt>
+					<longitude>-123.4591666517827</longitude>
+					<latitude>45.79583334019309</latitude>
+					<altitude>0</altitude>
+					<heading>1.066965094272627e-08</heading>
+					<tilt>0</tilt>
+					<range>1000.000000753018</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-blank2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-123.4591666517828,45.79583334019309,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>BFRO_24328</name>
+				<description><![CDATA[On Friday morning, August 1, 2008 at about 2:35 AM, I was awakened from sleep in my rented 19 ft travel trailer to what initially sounded like a man yelling for his dog. My family and I were vacationing in Seaside, OR and we were staying at Circle Creek RV Park, located on Highway 101 about one mile south of the popular destination town. After being woken up, I listened for some time before getting up and asking my wife if she had heard what I was hearing. She had been sleeping with our two young sons at the opposite end of the trailer. What we both heard for the subsequent 25 minutes was a deeper voice calling, as if searching for someone. We could not make out what the person was saying, and it seemed odd to both of us that the vocalizations were exact replicas of each other, that is, each call sounded identical to the other. It was almost as if someone was walking around with a tape-recorded selection repeating plays in uneven short intervals. The vocalizations seemed to rapidly circle the RV park along a bordering creek and hedge-row. This movement of the sounds would have required the individual to be constantly running. My wife and I both observed out the windows in the trailer, looking for a flashlight or some other indication of someone searching. The security lighting in the RV park made it difficult to notice forms outside the perimeter. The tone and timbre, and completely unintelligible nature of the vocalization seemed similar to the "samurai chatter" recordings on the BFRO website. At one point the vocalizations became so close to our trailer and so loud that my wife became profoundly afraid. I began wondering if any of the other guests in the park had been awakened, and if they were shaken up as we were. At about 3 AM a car drove up from the highway and three passengers with flashlights exited the vehicle, and proceeded to their campsite. The car drove away. This activity brought silence to our unintelligible visitor, and we were not disturbed for the rest of the night. At 7 AM I asked the RV park manager if he had heard “all of the commotion” the previous night, and he said that he had not heard a thing. I was disappointed to be heading back to Portland that day, as I had hoped to talk with other park guests about the incident.
+
+<img style="max-width:500px;" src="file:///C:/Users/kayla/OneDrive/Desktop/Sasquatch Data Project/Google Earth Images/Oregon/BFRO_24328.png">
+
+<img style="max-width:500px;" src="file:///C:/Users/kayla/OneDrive/Desktop/Sasquatch Data Project/Google Earth Images/Oregon/BFRO_24328_2.png">]]></description>
+				<LookAt>
+					<longitude>-123.9257198139741</longitude>
+					<latitude>45.96526890180793</latitude>
+					<altitude>0</altitude>
+					<heading>-14.61309299907416</heading>
+					<tilt>7.728378102066288</tilt>
+					<range>280.1982805006965</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-blank2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-123.9262614497961,45.96531566544236,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>BFRO_7957</name>
+				<description><![CDATA[My partner and myself were elk hunting in the "Saddle Mountain Unit." It was approximately one hour after daylight. We were standing near our vehicle on a pullout off an old logging road trying to spot elk. I then heard a loud wailing scream tapering off into an agonizing moan. My partner just stood there looking into the canyon.I didn't speak to him. After another couple minutes passed, the scream occured again. I knew that he had heard it both times. I asked him what he thought it was. He asked what I thought it was. I told him that we both know it's a sasquatch. The sound was very loud. If I were to guess it was 250-300 yards away. Over the next ten minutes, the scream occured 2-3 more times. It seemed that the sound was directed to different directions the last couple screams. My hair was sticking up and it quite literally scared the hell out of me. No more screams were heard.(more to story)
+
+<img style="max-width:500px;" src="file:///C:/Users/kayla/OneDrive/Desktop/Sasquatch Data Project/Google Earth Images/Oregon/BFRO_7957.png">]]></description>
+				<LookAt>
+					<longitude>-123.2830598877819</longitude>
+					<latitude>45.82510755938278</latitude>
+					<altitude>0</altitude>
+					<heading>-0.001802215664926112</heading>
+					<tilt>60.00122110972407</tilt>
+					<range>156.9752503748506</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-blank2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-123.2831342779644,45.82509450147612,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>BFRO_67380</name>
+				<description><![CDATA[I wasn't going to report this incident, but I believe it is of major importance to the Bigfoot research community. I will try to keep it simple. I had recently purchased a used vehicle and we decided to take it for a test drive to Laverne Park, which is just a short drive into the mountains from where we live. I was with my girlfriend, her 14 year old daughter, and my dog. After passing the park, we drove on further to see the country. We found a right turn and followed the rural road up into the forest. I later found out that we were traveling up Moon Creek. Not long after heading up the road, my car started overheating. I didn't have water on me so I decided to stop at the first water source, which was a bridge of the creek. I pulled over and we got out. While stepping out of the truck by girlfriend said, " hey, there is something walking on the hill above us". We stopped and listened for a moment but it was quiet. I then looked for a place to collect some water from the creek but it turned out that the edge of the water was too steep to step down and get water from. So, I had come up with a quick plan to connect some string to a cup and "fish" the water from the bridge. While we were trying to get the cup to fill, a small stone was thrown at us and bounced on the concrete of the bridge we were on. I looked up and noticed a steep hillside above us wondering what the hell could throw a rock at us. I noticed my dog was sitting in my truck, which she never does while I'm out of it in the wilderness. I was getting a little spooked so I tried to speed up the process of getting the water in the cup. Then, another stone bounced on the bridge next to us. I literally watched it skip along the cement. I mentioned that we better hurry, and then, from somewhere up the hill, came a very large rock, about the size of a softball of larger. It smashed against a huge rock in the creek and busted into pieces. I stood up on the bridge, looked at my girlfriends daughter and said, "let's go now!" My girlfriend and dog were already in the truck when I slammed the hood down and dove inside. We drove down the mountain and pulled over. I had left so fast that I didn't put the radiator cap back on. I considered returning after getting water to try to get pictures, but my girlfriend wouldn't let us go back. Now, either somebody was on that steep hill in the middle of the forest screwing with us and throwing rocks, or something else was. If it was a person, they are mighty brave in a forest full of hunters and guns. I don't know, seems awful strange.
+
+<img style="max-width:500px;" src="file:///C:/Users/kayla/OneDrive/Desktop/Sasquatch Data Project/Google Earth Images/Oregon/BFRO_67380.png">
+
+<img style="max-width:500px;" src="file:///C:/Users/kayla/OneDrive/Desktop/Sasquatch Data Project/Google Earth Images/Oregon/BFRO_67380_2.png">]]></description>
+				<LookAt>
+					<longitude>-123.986710146434</longitude>
+					<latitude>43.27076298971401</latitude>
+					<altitude>0</altitude>
+					<heading>-2.014628999380709e-05</heading>
+					<tilt>29.05287381680361</tilt>
+					<range>468.0068041901808</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-blank2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-123.9869831112666,43.27040134211639,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>BFRO_10034</name>
+				<description><![CDATA[This incident took place during the first Oregon elk season in 1989.My hunting partner had business to tend to in town and had to take leave of our camp for a day. He had taken my truck and left me at camp with his truck and camper. I departed camp on Saturday morning, proceeding at a slow pace to the north/northwest. Neither of us had seen any elk since opening day, the previous Wednesday, so I wasn't hopeful of success that day either. I had proceeded a short distance, less than a half mile and one hour elapsed, when I became aware of a sound that captured my interest. It was the sound of wood on wood striking. Upon hearing the noise, I paused to evaluate its possible origin. It seemed to be between 200-300 yards distant. I at first thought of somebody chopping wood. There is an unimproved road that travels the approximate route I had taken. However, that road starts where I was camped and nobody had been by in a couple of days. Also the sound was in groups of 3 or more whacks. As fast as you or I can say aloud, "whack, whack, whack", is as fast as the sounds were materializing. I deduced that to rule out chopping wood with an ax, as someone using an ax typically takes a full backswing and then must extract the ax from the piece. Both of those acts take too much time to explain these sounds. Later, my dad said he thought it must have been forest grouse. I tentatively took this for the truth until I myself heard forest grouse a few years later and the sounds were not the same. The sounds continued, never varying direction, but always staying ahead of me as I walked, though I was catching up. Finally, I reached a place where the sounds were no more than 50 yards distant, though the maker remained hidden by a rise on the opposite side of the intermittent creek I was overlooking. I sat down on a log to plan my next move and the sounds continued. There was just something so unusual about them that I was becoming very uneasy. I decided, in spite of the .300 Winchester magnum in my hands, to retreat to F.S. 16 and return to camp. I was so shaken by what I had heard that I stayed in the camper the rest of the day to await my friend's return late that night. Later in the afternoon and into the night, I repeatedly heard a noise like a vehicle crossing a cattle guard at low speed (20mph). It was a low rumbling sound. Indeed, there is a cattle guard on F.S. 16 that can be heard from the camp site and initially this is what I thought I was hearing. What is noteworthy is that this sound was not coming from vehicles on the road. I could also easily hear and see trucks on F.S. 16 and few occurrences of this noise could be attributed to passing vehicles. These noises continued into the night until I went to bed. My friend returned and the rest of the trip came off without incident. For years, I tentatively assumed that what I heard had a generally recognized origin. In June of 1995, an interest feature on Bigfoot in the Oregonian newspaper described "tree whacking" as a communication medium of Bigfoot creatures. At that point, I was quite certain of what I had heard.
+
+<img style="max-width:500px;" src="file:///C:/Users/kayla/OneDrive/Desktop/Sasquatch Data Project/Google Earth Images/Oregon/BFRO_10034.png">]]></description>
+				<LookAt>
+					<longitude>-120.7854702791305</longitude>
+					<latitude>44.52549064785263</latitude>
+					<altitude>0</altitude>
+					<heading>0.001263033196534731</heading>
+					<tilt>37.1607700968059</tilt>
+					<range>652.3470854893767</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-blank2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-120.7857888242389,44.52493814126605,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>BFRO_11449</name>
+				<description>It was about 10 years ago when my girlfriend and I and two of our friends went to Gold Beach, Oregon where I was going to propose to her. We got a motel across the highway from the beach. That night we went to the beach and built a campfire and I noticed footprints in the sand. What struck meas odd was the fact that these were very deep (about 6-8 inches), very long (about 18 inches) and the stride was very long; I had to leap into each one. We followed the prints which went up a five foot embankment and disappeared. None of our group particularly believe in Bigfoot but do not totally rule it out. Just thought I would share our little story.
+
+</description>
+				<LookAt>
+					<longitude>-124.4253662386749</longitude>
+					<latitude>42.40430507239616</latitude>
+					<altitude>0</altitude>
+					<heading>-0.00396021642493481</heading>
+					<tilt>29.45694448953402</tilt>
+					<range>269.8308986978965</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-blank2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-124.4255523894273,42.40416214493446,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>BFRO_36671</name>
+				<description><![CDATA[I took a three day vacation beginning on September the 14th 2012 from Northern Nevada to the Southern Coast of Oregon. I take professional photos for a website I operate and was hoping to get in some great scenic shots before it got to cold and lousy for the rest of the year. My fiance and I were on a hike about six or eight miles above Brookings Oregon, in Curry county. We were on a hiking trail in a densely wooded area following a trail called the loop trail. This trail is about a quarter of a mile past the area called Natural Bridges viewpoint. We had gone down the trail without incident, although it was getting dark and I felt as though we needed to hurry to get back, even though there was no reason to. It was just a feeling like the hairs on the back of my neck had started to stand up. I can't quite explain it, I just suddenly felt uncomfortable. We did not see any other hikers while we were on our way back up the trail, or on the way down. We stopped walking when we heard some loud snaps in the forest around us, like something was breaking tree branches. We looked around, but did not see anything at first. We decided to keep walking, when we saw some bushes about twenty yards ahead of us sway back and forth. We stopped again and were then assaulted by a horrific smell that reminded me of garbage baking in the sun. By then, the nervous feeling I had had intensified and I was really beginning to worry about the onset of fog and the fading light. The forest was misty and it was raining lightly. We were climbing a steep part of the trail and I gave it my best push to get to the end of the trail. As we were finishing the final climb, I turned and looked behind me. I'm not sure why. It was like I knew someone was watching and yet I told myself I was just being silly. When I turned, I saw a head above some tree branches with the rest of the body obscured by the heavy vegetation. The head was covered in Dark, reddish brown fur and was impossibly far from the ground. If this was a man he must have been at least close to eight feet tall. I blinked a couple times convinced I was seeing things. The thing I was looking at did not disappear. Instead it looked at me curiously for a few seconds and then moved out of my view behind a tree. I grabbed my fiance's hand, too afraid to tell him what I had seen because I thought he might go looking for it and then made my way back to our vehicle as fast as I could. I am not crazy. This was not a trick of light or fog. Something very large with the face of an ape was looking at me. I will never forget it.
+
+<img style="max-width:500px;" src="file:///C:/Users/kayla/OneDrive/Desktop/Sasquatch Data Project/Google Earth Images/Oregon/BFRO_36671.png">]]></description>
+				<LookAt>
+					<longitude>-124.3670197604735</longitude>
+					<latitude>42.19244312782725</latitude>
+					<altitude>0</altitude>
+					<heading>0.0001441762637326012</heading>
+					<tilt>50.37004541222102</tilt>
+					<range>402.4101908274968</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ltblu-blank2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-124.3670454986167,42.19195812216681,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>BFRO_7785</name>
+				<description><![CDATA[I have been reading your site for the last couple of years, and thought I'd share some experiences I've had over the years. Nothing particularly groundbreaking, but it may add to your database. I have been interested in Sasquatch/Bigfoot since I was a small boy growing up in Central Oregon hearing stories from my uncles and their friends about the goings on in Northern California in the 50s' and 60s'. While there was a lot of skepticism about the possibility of such a creature existing, there was also an underlying acceptance of the possibility that it could exist. My family, and most of the people I knew, spent a lot of time in the woods hunting, fishing, and camping. My grandfather and uncle were expert hunters and woodsmen, and taught me those skills from the time I could walk. In the first 20 years of my life, most of my free time was spent hunting, fishing, camping, hiking, and exploring the wild areas around my hometown. In 1963, my grandfather, mother, brother, and I hiked in to Teddy Lakes in the Three Sisters Wilderness area to go fishing. In those days the Forest Service kept a wooden rowboat at the lake for people to use. We took the boat out and fished for awhile and decided to explore the far end of the lake. There is a small cove at that end of the lake with an island at the mouth of the cove. The cove itself is shallow and swampy. As we rowed around the island we could hear splashing on the other side, and thought maybe had disturbed a bear or an elk. When we rounded the island, the animal was gone, but the ripples in the water were still evident. We took the boat over to the shallows to examine the tracks the animal had left to determine what it was. Most of the area between the island and the shore was maybe 5 or 6 feet deep up to within about 50 feet of the shore where there was about a foot of water over soft mud. What we saw has stuck in my mind for the rest of my life. There was a clear line of tracks where the animal had emerged from the deeper water and walked through the shallows leaving very deep tracks on the mud. It looked like the tracks of a very large man, only wider, longer, and deeper. It was clearly the trail of a two legged creature taking large steps leaving about a 15" track very deep in the mud. My grandfather and I pondered those tracks for a long time trying to come up with an explanation for what made them. All I can say for absolute certainty is that it was not a bear, elk, or any other animal known to live in the area. We tried to follow the animal into the woods, but lost the trail in the deep forest litter. The reason those tracks have stuck in my mind for so long are two fold. While I was only 9 years old at the time, I had spent several years learning the tracks of the animals in the area, and felt very confident in my ability to identify the maker of the track, when it was made, where the animal was going, etc. I had absolutely no idea what made that track. My grandfather, who was an absolute expert hunter and tracker also could not identify those tracks. We had many discussions over the years as to what that animal was, and never did come up with a plausible explanation. As I have learned more about the Sasquatch from reading books over the years, I have come to think it might have been our elusive furry friend. Another important point is that before rowing over to the island, we had been fishing in the lake for an hour or so talking most of the time. This is a small lake, and any wild animal would have heard us and left the area well before we rowed to the island. The tracks were made by a very large animal. The large animals known to exist in the area are bear, elk, cougar, and deer. All of those animals flee at the first hint of people. It is true that cougars will occasionally observe people from concealment, but I have never known one to swim out to an islad to watch people fishing in a boat. Whatever the animal was, it was watching us from the island and only left when we approached. We didn't smell or hear anything other than the sounds of the animal moving through the water as it went through the shallows. Another incident happened in 1970 or 71 while bowhunting for deer in the Swampy Lakes area West of Bend. I had driven to Tumalo Falls and walked from there in the general direction of Swampy Lakes. I had been out since before dawn hunting and just hiking around, and had stopped around noon to have some lunch and rest. It was a sunny day, with the sound of the wind in the pine trees, and an occasional bird calling. I was having a nice time soaking it all in and thinking about where I was going to go that afternoon. All of a sudden, I got this overwhelming feeling of being watched, and became very anxious. I am not one to become overly excited especially when in the woods. I am very comfortable in the wilds, and had spent countless days in situations just like that day. It is in fact where I feel most comfortable and at home. Anyway, I could not figure out why I was feeling nervous, and began scanning the area carfully to see if I could spot an animal. I didn't see anything, and had just about got myself calmed down when I heard a twig snap in some dense jackpines maybe 60 feet from me. There was something walking in there and it definitely had my full attention. I was now standing with an arrow nocked in my bow trying to see what was in there. Whatever it was stayed out of sight, and didn't make any more noise. I stood there for about 5 very long minutes trying to decide what to do next. I was feeling a little silly about being so scared, and decided to investigate. So I walked around the thicket where the noise came from thinking I could see better from the other side. I didn't go more than a few steps when there was a snap from a branch breaking inside the thicket. It was loud enough that I knew it was a large animal. It was all I could do to keep myself from taking off at a dead run. I was an hour or two from the nearest trail, and maybe another hour from my car. I knew that I couldn't outrun any animal that was making the noise. The fact that I was so scared was what was confusing me the most. It made no sense to me. I have had bears come into my camp at night, and not had anything approaching the overwhelming fear that I experienced that day. I really didn't have any fear of mountain lions or the back bears in the area. We didn't view them as dangerous at the time. Besides, mountain lions don't make noise. You are never going to hear a mountain lion walking throug the woods. They don't snap branches. Bears can be noisy when they are eating and haven't detected you. All of the bears that I had come upon at that time had run as soon as they saw me. This animal was observing me from cover and knew I was aware it was there. I decided that exiting the area was the best call. I gathered my things in my pack and deliberately walked away, keeping a close watch over my shoulder. I did not want to appear panicked and encourage whatever was in there to persue me. I had the distinct feeling that I was being followed from a close distance, and would hear a occasional sound of something moving through the woods. I would turn around to face whatever it was, but never saw anything. This went on for a good hour or so, and then stopped. I walked the rest of the way to the car and drove home. This is the first time I have recounted this experience. The reason I bring it up at all is that other people seem to have had similar experiences. In 1973 a close friend of mine came by my house after a deer hunting trip. He told me that he had seen a big foot while hunting that day. I asked him what he saw and he told me that while sitting by a log at the edge of a clearing, a large hair covered animal 6 or 7 feet tall walked across the clearing in broad daylight about 50 yards in front of him. He told me he shot the animal with his 30-06, it let out a scream and ran into the woods. I grilled him for awhile about the details of the encounter, and I believed he was telling the truth. This happened in the area of Wickiup reservoir south of Bend Oregon. I was very angry with him for shooting the animal, and he wouldn't speak to me about it for a long time after that. I have lost touch with him, but I know some people who may know where he is if you want to follow up. About a year after that incident, another man told me he had an encounter near Three Creeks Lake Northwest of Bend. He and another man were sitting on the tailgate of their pick up after a day's deer hunting, waiting for a third man to return. It was after dusk. They said that they smell a foul odor, and something shook the bushes and threw branches and stones at them. At the time, I didn't pay much attention to this story, but it does seem consistent with some of the behaviors described in John Bindernagel's book. The last incident happened at Fish Lake near Bluff Creek in September of 2002. I had been on a solo backpacking trip from Elk Meadows to the Dillon Divide area, and was spending my last night at the lake before leaving the area the next day. I hadn't seen any sign of Bigfoot, but had a great trip exploring some beautiful country. It was about 11 at night, and I was about half asleep in my tent. I heard a very loud whoop that sounded like it came from directly across the lake. The sound went from low to high, and lasted a couple of seconds. What was striking was the volume. It was louder than an elk bugling. I hope you find this useful.
+
+<img style="max-width:500px;" src="file:///C:/Users/kayla/OneDrive/Desktop/Sasquatch Data Project/Google Earth Images/Oregon/BFRO_7785.png">]]></description>
+				<LookAt>
+					<longitude>-121.8827384224048</longitude>
+					<latitude>43.86293213450602</latitude>
+					<altitude>0</altitude>
+					<heading>0.009350512415776252</heading>
+					<tilt>24.15583506494814</tilt>
+					<range>269.0077780366521</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-blank4</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-121.8829288967974,43.86280512988043,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>BFRO_36384</name>
+				<description><![CDATA[We were paddle boarding at Hosmer Lake and on the far backside of the lake where the water is only about 1 foot deep we saw a track or trail through the water with very clear and apparent large footprints. The foot was completely decked and toes were clear as day.... We found an easy dozen or more footprints in the water in the mud... Not all were apparent... The trail lasted approx a couple hundred feet ... We saw Elk prints and the 'footprints' seemed to occasionally jolt to the side... As if it were trying to jump onto a fish or duck... The prints were very large... The water in the lake there is way too cold to walk through....
+
+<img style="max-width:500px;" src="file:///C:/Users/kayla/OneDrive/Desktop/Sasquatch Data Project/Google Earth Images/Oregon/BFRO_36384.png">]]></description>
+				<LookAt>
+					<longitude>-121.7776902008078</longitude>
+					<latitude>43.97176615034994</latitude>
+					<altitude>0</altitude>
+					<heading>0.0002270853045101682</heading>
+					<tilt>21.47013060447563</tilt>
+					<range>314.3490881377589</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-blank4</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-121.7780436265013,43.97192671448784,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>BFRO_9393</name>
+				<description><![CDATA[I was traveling back to Southern Oregon, from Portland, Oregon in the fall of 1991. It was approximately 2:30 am, on a Saturday morning. I was driving south on Interstate-5 and it was raining lightly. The area is known as Rice Hill, about a half hour north of Roseburg, Oregon. Heading south, the highway runs up rice Hill, sweeps to the west across the top, and then turns back to the south as it drops off. As I crested the hill, and was exiting the the turn to the west, my headlights came level with the road and the guard rail, along the turn to the south. Right at the point of curve, of the turn to the south, right next to the guard rail, was a bigfoot. It was crouched down, kind of squatting, like a baseball catcher, untill my headlights were right on it, and then it stood up, quickly, took a step or two and jumped the guard rail, and went down the enbankment. At 65 mph, I didn't see it for long, especially at night; however, there is no doubt that it was the stereotypical bigfoot. Needless to say, I was quite surprised, and I pulled over. My stopping distance, at that speed, put me downhill from the spot quite a way. I was carrying a .44 magnum pistol with me, and thought about going back up on foot to look for sign, but I was a little rattled at the time, and opted not to. I sat there for probably 5 minutes, and then continued home. I told friends and family, but have never contacted any organization about the incident. The only issue I have with this sighting is that is was within 4 days of Halloween (before or after, I don't remember). That being said, I still don't quite know what to think about it. The bigfoot, as I said, was the stereotypical bigfoot. Dark brown, shaggy, little or no neck, long arms, and stood on two legs. Having seen many bears in the wild, I'm certain it was not a bear. Its ability to jump a guard rail in two steps was not anything a bear could do. It didn't seem huge to me, however, when I stand next to a guard rail, it comes up to the top of my knee (I'm 5'8"), so it must have easily been in the 6'+ range. I never got to see its face, mostly the back and a bit of its left side. All I can say is that it looked like Chewbacca from the back. I know it sounds weird to most people, but I saw what I saw, whether it was a costume or not.
+
+<img style="max-width:500px;" src="file:///C:/Users/kayla/OneDrive/Desktop/Sasquatch Data Project/Google Earth Images/Oregon/BFRO_9393.png">]]></description>
+				<LookAt>
+					<longitude>-123.3117059361202</longitude>
+					<latitude>43.52439004177612</latitude>
+					<altitude>0</altitude>
+					<heading>-0.002943055562965863</heading>
+					<tilt>50.00767632545084</tilt>
+					<range>370.549443517401</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ltblu-blank0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-123.3119286870154,43.52401474129357,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>BFRO_7687</name>
+				<description><![CDATA[At about 11pm, after sitting silently in front of the campfire for a couple of hours, I all of a sudden started hearing a single, loud wailing sound. It sounded like a cross between a wolf and 'tarzan'. Somewhat human, but definitely not. The high-pitched howl that at first I thought was a wolf, became louder and longer, and was moving slowly through the woods about a quarter mile from me at most. It would stop briefly, then continue, sounded like something in pain or extremely lonely or lost, calling out for others. I heard no other calls in response, and I didn't utter a sound because I didn't want to scare it off. I was mesmerized. It kept sounding off for about 10 minutes, then gone. It was not close enough to hear footsteps associated with it. VERY Loud vocalizations. When I realized that I've heard wolves, coyotes, and cougars before, I knew this was nothing of the sort. That's when my whole body got chills as I realized that I must be hearing a 'Sasquatch'. I can't say I had really ever considered that they exist or not. I was certainly open, but skeptical. Not Anymore! I consider myself extremely lucky; most people will never hear such a thing.
+
+<img style="max-width:500px;" src="file:///C:/Users/kayla/OneDrive/Desktop/Sasquatch Data Project/Google Earth Images/Oregon/BFRO_7687.png">]]></description>
+				<LookAt>
+					<longitude>-118.5899765287417</longitude>
+					<latitude>44.53890734263285</latitude>
+					<altitude>0</altitude>
+					<heading>7.013801733023892e-06</heading>
+					<tilt>39.7083866407876</tilt>
+					<range>105.901940209333</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-blank1</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-118.5900648600356,44.53891464863081,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>BFRO_6584</name>
+				<description><![CDATA[At about 7:00 pm I was taking a walk along the eastern edge of Call Meadow. I had parked before the cattle gate on the southern end. Cattle were grazing toward the south end of the meadow, and also in the woods to the east, but they were fenced out of the meadow, where I was walking on an old road. I'd gone maybe about 500 ft. and heard, off to the southwest, near the E-W fenceline, in the woods on the other side of the meadow, a really horrible noise. I've worked in the woods on the coast for almost 20 yrs., and have been camping over in the Malheur for about as long, and I have never heard anything like it. It was very loud, like a cow bellowing but it wasn't a cow. It's hard to describe, or even remember exactly, but it was almost like a scream, but not a scream, it almost sounded like something may have been in a lot of pain, or maybe just really mad. It went on for at least a minute or more. I was listening, and a first thought coyote, but it didn't sound like a coyote. I have heard that cougars can scream like a woman, but it didn't sound like that. I was most impressed by how loud it was. It was probably about 1000 ft. away from me. I could see across the meadow, and kept watching while I headed back for the rig. It was pretty scary, so I cut my walk short.
+
+<img style="max-width:500px;" src="file:///C:/Users/kayla/OneDrive/Desktop/Sasquatch Data Project/Google Earth Images/Oregon/BFRO_6584.png">]]></description>
+				<LookAt>
+					<longitude>-118.769679686439</longitude>
+					<latitude>43.79837018771308</latitude>
+					<altitude>0</altitude>
+					<heading>2.414916917176269e-05</heading>
+					<tilt>22.72324364559396</tilt>
+					<range>317.4362082123066</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-blank1</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-118.769772257914,43.79835502687916,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>BFRO_4604</name>
+				<description><![CDATA[It's been about 6 or 7 years and the area has grown where this happened. I was camping at Lost Lake in Oregon and doing the usual hike around the area. I came to a little creek crossing and small ravine about 200 yds behind the local store and found myself gazing at what appeared to be a fallen tree with a broken stump about 6ft up and some odd features in it. Ex: Dark features that kind resembled eyes and arms coming across a leg. Like if you were to sit over your feet in a crouched position. It was about 3pm so the effects could have been from lighting and the trees. Either way I thought it looked cool and wanted to go get my camera. I placed a pile of rocks directly across from it and ran literaly and got my camera. Upon arriving back at the location, about 15 min later, I noticed my pyramid of rocks was knocked over and when I looked across the way there was nothing. No fallen tree, no branches and nothing worth taking a picture of. I searched around the area thinking I was looking from the wrong angle but the only thing right across the way could have in no way been what I was looking at. A few days later back in Portland, OR the news said that there had been a report of a Bigfoot in that area. I have never gone camping there again!
+
+<img style="max-width:500px;" src="file:///C:/Users/kayla/OneDrive/Desktop/Sasquatch Data Project/Google Earth Images/Oregon/BFRO_4604.png">]]></description>
+				<LookAt>
+					<longitude>-121.8142690177726</longitude>
+					<latitude>45.48715140554558</latitude>
+					<altitude>0</altitude>
+					<heading>-0.006722556076982526</heading>
+					<tilt>28.44494763608879</tilt>
+					<range>161.7026800996304</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ltblu-blank3</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-121.8143349898772,45.48716515602982,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>BFRO_9109</name>
+				<description><![CDATA[My wife and I were on vacation visiting different sites around the southern edge of Mt. Hood off of Highway 35. We came across a sign for the Barlow Road (US Forest Service Road 3530) and decided it would be fun to drive into the woods and perhaps see some of the wagon ruts. We drove to the edge of a clearing just north of a deserted campground and stopped to take a look around. Just after getting out of the car we noticed an extremely large pile of fresh droppings about 10ft from where we had parked. My wife, who has had experience hunting bears, elk and other large mammals, commented that the droppings looked odd and did not look like bear or elk droppings. They were more "human" in appearance but way too large for a person to have made. After a few minutes of looking around we both noted that we no longer heard any other animal noises of any sort. It seemed way too quiet. We had been visiting sites within a few miles of this place all day and this place really stood out as being eerily quiet. It was at this moment that my wife stated that it felt like we were being watched. I agreed. The whole environment just seemed really strange. We both got an extremely creepy feeling and decided to just turn around and leave. It was such a relief to be back in the car and moving up the road that we both laughed out loud and shouted about how creepy the whole thing was! Then my wife confessed to me that just before we left she had seen something watching us from across the meadow a 100ft or so away. She said that it had reddish brown fur, was moving on two legs. Just after she saw it, it started heading away from us and back into the forest. She only saw it for a few seconds before it was already back into the trees and out of site. She was sure it was not a bear based on her experience on hunting trips with her family.
+
+<img style="max-width:500px;" src="file:///C:/Users/kayla/OneDrive/Desktop/Sasquatch Data Project/Google Earth Images/Oregon/BFRO_9109.png"><img style="max-width:500px;" src="file:///C:/Users/kayla/OneDrive/Desktop/Sasquatch Data Project/Google Earth Images/Oregon/BFRO_9109_2.png"><img style="max-width:500px;" src="file:///C:/Users/kayla/OneDrive/Desktop/Sasquatch Data Project/Google Earth Images/Oregon/BFRO_9109_3.png">]]></description>
+				<LookAt>
+					<longitude>-121.6792623292422</longitude>
+					<latitude>45.2739655279182</latitude>
+					<altitude>0</altitude>
+					<heading>0.0001606328825237255</heading>
+					<tilt>51.23191810965933</tilt>
+					<range>347.1942538947405</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ltblu-blank3</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-121.6794417596044,45.27396009227132,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>BFRO_5100</name>
+				<description><![CDATA[On Tuesday, September 24, 2002 I was hiking alone on the Ruckel Creek trail near Cascade Locks. The time was about 4 p.m. I was beginning descending from the area known as The Benson Plateau. Although I am not sure of my exact position it was probably close to 45 deg. 38' 21" N, 121 deg. 52' 24" W at an elevation of about 3,300 feet. The trail was very dry and dusty and the steep decent required that I walk very carefully. As a result I made almost no sound at all. There was suddenly a very loud crashing sound from close by and my thoughts were that a bear had been surprised. At first I saw nothing, but the sound indicated that an animal was fleeing up the steep hillside. Then for about two seconds from a distance of about a hundred feet I could clearly see what looked like a large guerrilla running up the hill. Only the back was visible and it was black. The animal was only visible from the waist up. It had powerful back and shoulders and a very large head that rose to a distinct hump much as it does in pictures of some apes. I do not know how big it was other then to say it was a lot bigger then me. The head was particularly massive I thought. The animal apparently tripped and fell forward, but caught itself and kept moving up through the dense thicket. At that moment it turned its head enough for me to see its head and face in profile. It had a distinct nose but there was little else I could distinguish. At this point I went for my camera. This took a few seconds. When I looked up again I could see motion but could not make out the animal. There was a fallen tree about a hundred and fifty feet up the hill and it began to rock up and down at a uniform rate of about 1 HZ. It made a corresponding creaking and rubbing sound and this continued for some time, perhaps fifteen seconds keeping my attention drawn to that spot but seeing nothing but the tree bobbing up and down like it was being deliberately shaken at a uniform amplitude. Then it suddenly stopped and I could hear nothing. Then I noticed some motion about fifty feet to the right of the tree and thought I could see a face looking at me. The face seemed smaller that the animal I had saw but it still looked like a face and shoulders against a lighter backdrop. I stood with the camera ready knowing that the animal was still there and expecting it to stand up and again show itself. But this waiting game went on for perhaps two minutes. Then I began to wonder if the animal was in fact gone and perhaps I was looking at some strangely shaped stump because it did not move and I could not see it well enough to tell exactly what it was. At this point I took a picture thinking I might blow up the photo later for closer study to determine if anything was in fact there. It occurred to me that I should move around a bit and try to find a better angle. But there was no better position then where I was and caution prohibited me from moving closer. When I returned to my original position I no longer could see the face. I stayed around and listened and watched for a while but noticed nothing. The trail itself was very dusty and took prints well. My own prints were very clear but there were no other prints that I could see. During the incident I smelled nothing. When the digital picture was lightened and adjusted for contrast the head that appeared to be looking at me did look like it could be real. But in the background was what could be another far bigger animal. The larger image in the background is about the right size for the animal I saw. But the front looks like a light tan. I just took the picture and that is all I know about it. The picture quality is poor. Obviously if the animals were willing to pose I might have done better. I went back to the site two times to try to locate the exact position from clues in the picture but have been unable to relocate it exactly. I wanted to get another look and take another picture from the same location just to make sure I was not seeing something that just looked like what I was trying to see. The interesting part is right in the middle of the picture and needs lightning to see properly. I did go back about two days later and explore the place where the animal might have been headed. This area is called Rudolf Spur. All I found there was a pile of shit that was flat as a pancake and looked like tar. It was the size a large human might leave.
+
+<img style="max-width:500px;" src="file:///C:/Users/kayla/OneDrive/Desktop/Sasquatch Data Project/Google Earth Images/Oregon/BFRO_5100.png">]]></description>
+				<LookAt>
+					<longitude>-121.8731751317588</longitude>
+					<latitude>45.6393678602159</latitude>
+					<altitude>0</altitude>
+					<heading>-6.490202320008939e-05</heading>
+					<tilt>48.86308475423866</tilt>
+					<range>407.5465125905825</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ltblu-blank3</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-121.8732811931468,45.63918624018287,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>BFRO_22742</name>
+				<description><![CDATA[My friend B.P. and I decided to spend an evening at Eagle Creek State Park along the Columbia River on I-84 at milepost 41 East of Portland, OR. We had a cook out camp fire in the Community Kitchen there. It was on April 9th, 2001, a Monday, which we purposely chose to avoid the crowds. Not that there are many people out there in the Winter but a Monday evening will usually guarantee no others will be around. It was cold out, just above freezing, and it had been raining quite a bit earlier. We had a nice dinner. We had cooked on our portable BBQ earlier in the evening which had included BBQ steak. We had already picked up and put away all of our gear so we were ready to go when we wanted to. At 11:50 PM we had just looked at our watches thinking it was time to go, when from across the creek, about 200 yards away, came a shrieking yell that both startled and shocked us. The yell came from across the creek, up on a ridge due west of us. At first I thought it was an emergency siren going off at nearby Bonneville Dam, but the siren quality of yell quickly turned into a very breathy roar of some very large animal. It lasted about 10 seconds. We stared at each other in disbelief. Before either of us could utter a word, another yell, just like the first, came from behind the Community Kitchen no more that 100 feet from us. This was the first time that I had ever experienced the hair standing up on the back of my neck. I thought I would have been able to identify any animal that lived in the forests of Oregon but this call was completely new to me. We stood there silent, listening for about 5 minutes. We knew that we were right in the middle of the two calls so maybe these two animals were going to meet right where we were standing. We then decided to leave. I was so glad. When I was inside my truck we locked the doors right away. We did leave our left-over food behind for them in case they were interested in that. I was skeptical about Bigfoot before but I try to keep an open mind. The only place I have heard the same exact calls since was in a film that was a 70's Class B movie called The Bermuda Triangle. Another thing to note on that occasion was that the snow line was unusually low still for that time of year. We thought that maybe this had driven these bigfoots down low in search of food. We were up there a few more times that year with our recorders but never heard another thing.
+
+<img style="max-width:500px;" src="file:///C:/Users/kayla/OneDrive/Desktop/Sasquatch Data Project/Google Earth Images/Oregon/BFRO_22742_1.png"><img style="max-width:500px;" src="file:///C:/Users/kayla/OneDrive/Desktop/Sasquatch Data Project/Google Earth Images/Oregon/BFRO_22742_2.png">]]></description>
+				<LookAt>
+					<longitude>-121.9240253544753</longitude>
+					<latitude>45.64112970082418</latitude>
+					<altitude>0</altitude>
+					<heading>-0.002858889575178344</heading>
+					<tilt>36.00243394141542</tilt>
+					<range>520.1260051068775</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-blank3</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-121.9245439057977,45.64064049303305,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>BFRO_8986</name>
+				<description><![CDATA[My wife, daughter and I were towing our trailer up to a local camp site on a Saturday morning for an overnight campout. I was driving along on the Prospect/Butte Falls highway. I came around a corner and was slowed down to about 30 mph. As we turned the corner, about 40 yards down the road on the right hand side, I saw what I thought was a man take a step from the road into the forest. I clearly saw an arm swing and a leg. What struck me strange was that he was pitch black from head to toe. I said to my wife, "What was that?" She said, "I don't know." At this point I am still thinking that it was a person, but that it was strange. There was a dirt logging road that crossed the highway right where the creature was standing. I started slowing down and expected to see a person, or a truck or camper on the road. As we went by and looked, there was nothing there. We continued down the road and my wife and I talked about what we had seen. My daughter was in the back seat of the truck and did not see anything. I all happened very quickly. I did not see anything until it moved as I was proocuppied by driving and towing. My wife saw it standing there by the road before it moved and clearly saw hair and could see both sides of the torso. I kept running over in my mind what it might have been. I have lived in this area all of my life and have seen every animal that lives in the woods. This did not fit in any catagory. The only thing that color is a black bear, and this clearly was not a bear. We finally agreed that it may have been a bigfoot. We decided to hurry to out camp and drop the trailer and get back down and look for tracks. I had my camera and my intention was to find some tracks and get some pictures of them. We went to camp and hurried back to the spot. The time since we went by was about an hour. The logging road turned out to be very dry and hard. I searched all around in the forest and on the other side of the highway for tracks, but could not find anything that was clearly a bigfoot track. I went back to were it was standing an stood in the same spot and was looking up in the tree standing there looking for a bees nest or something that perhaps a bear might be interested in. I was still trying to eliminate all other possibilities. Then it occured to me that when I had seen this creature step off of the road that it had stepped behind some branches on this tree. As I looked up I realised that the branches were way above my head. I am 6' 4". This thing was big. That convinced me.
+
+<img style="max-width:500px;" src="file:///C:/Users/kayla/OneDrive/Desktop/Sasquatch Data Project/Google Earth Images/Oregon/BFRO_8986.png">]]></description>
+				<LookAt>
+					<longitude>-122.4669451631206</longitude>
+					<latitude>42.59982903601172</latitude>
+					<altitude>0</altitude>
+					<heading>-3.031765260730917e-05</heading>
+					<tilt>30.00136859739469</tilt>
+					<range>304.5852285098385</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ltblu-blank</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-122.4672314159599,42.59961213873754,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>BFRO_64111</name>
+				<description><![CDATA[This happened in early to mid October 2011 when my wife and I were driving west towards mile marker 26 on Hwy 66 in southern Oregon to go hunting. To the best of my recollection this is what happened: It was between mile marker 26-27. My wife were cruising along at 45-55 miles an hour. While heading to a hunting location we will still be looking for deer but going at a faster speed till we get to our next dirt road. I call this speed hunting. We were driving a stretch of this highway and it was just before mile marker 26, on the east side. It was kind of straight with a small bump or hill in the road in the near distance. I was driving and on my left was an area next to the road that was slightly treed but easy to see through. We could see about a 100 yards straight back off the road before it became more heavily treed. Coming up fast on our left was where the trees got thick again and this semi clearing was going to end. So I would call this an L shaped tree line. Running to our left, away from the road and us we saw something moving very fast. My observation of what I saw was a 7-8 foot tall, hairy creature running almost full throttle. Since I was the one driving I couldn’t give my 100 % full attention to this thing running. The things that I did notice were it was very hairy, ran on 2 legs and had long arms. To be more specific, the hair was black and flowing from head to waist. Black hair from head to torso then a reddish cinnamon hair color from torso to waist. I can’t remember from the waist down for some reason. I think it happened too fast and I was a little caught off guard. It was sprinting but for some reason I didn’t feel it was full speed. I’m pretty sure it was running because we caught it off guard and spooked it. What I did notice was it looked like a lot of the Bigfoot that I have seen on TV shows. So after we passed it I looked at my wife and I asked her “did you see that?” She said yes. We both agreed we just saw a Bigfoot but yet part of us just wanted to say no we didn’t! We talked a little about it and kind of dismissed it having second guessing ourselves. So the next year it was hunting time again and we found ourselves going down Hwy 66 again. We started looking for the same spot we had our encounter. Both of us had really never talked about this the past year. So I brought it up again to my wife and I described what I saw the previous year. Strangely enough our remembrance of what we both saw was pretty close. We’ve been hunting for years and have seen a lot of animals out in the wild. We have seen Antelope, Elk, Deer, Bear, Bison, Bobcats, Emu, Turkeys and other creatures. We know for a fact it was not anything we had ever seen before. This thing stayed on 2 legs and never went down on all fours. My wife and I are not attention seekers and have nothing to gain from this. We enjoy just keeping a low profile in life but we felt we should say something about what we saw. I figure no one in there right mind would put on a Sasquatch suit during hunting season to get attention. Thank you for reading this.
+
+<img style="max-width:500px;" src="file:///C:/Users/kayla/OneDrive/Desktop/Sasquatch Data Project/Google Earth Images/Oregon/BFRO_64111.png">]]></description>
+				<LookAt>
+					<longitude>-122.3162466633941</longitude>
+					<latitude>42.12800727347288</latitude>
+					<altitude>0</altitude>
+					<heading>0.0002531690807765528</heading>
+					<tilt>28.29395440507404</tilt>
+					<range>293.898623224963</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ltblu-blank</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-122.3161622742379,42.12774716927243,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>BFRO_680</name>
+				<description><![CDATA[Ok, I feel as if I need to qualify this statement. First of all, it was the discovery of this website and report submission form which inspired me to come forward and reveal my sighting incident. I have held off for over four years for fear of accusations of incompetence and lunacy-- after all, who doesn't poke fun at the "freaks" who tell of UFO and Bigfoot incidents? Second, I will confidently say that this sighting is absolutely true, and I will continue to have vivid memories of it all of my life. Third, I am a highly reputable source: I am a licensed English Teacher currently working at a large public high school in Oregon. I am educated, am of sound mind, and am not wasting my efforts here on a hoax of any sort. Finally, my most accurate narrative memory of my sighting: at the time of my sighting (see above for details), I was alone in a two bedroom residence located approx. 1/4 mile north of US Hwy. 199, on a gradual wooded slope. On this three-acre property, there are two horse pastures--one below the house and one above the house. Both pastures are surrounded by active hot- wire fences and contain two horses which may move freely between both lower and upper pastures. I was completing a research paper for a college class at the kitchen table. I had on light on, and my friend's dog (a small brown heeler) was on a 35' wire tether tied to the porch outside the small house. I was completely engrossed in schoolwork when I heard the dog outside begin to "go ballistic." I was quite alarmed by this, so I immediately tuned in to the animal's actions. I will never forget what I heard: all the dogs and horses from the other residences (which were quite far away--over several rises and ridges) were shrieking nonstop. Wanting to be cautious, I went to my gunsafe and removed a large caliber pistol and a powerful flashlight and headed towards the front door. I turned off all the lights in the house and I opened the front door, carefully searching with the flashlight and pistol before exiting. What I saw unnerved me. The small heeler was focused on the lower horse pasture and steadily loosing a quiet growl. The two horsed had moved to the upper pasture and were rustling about and neighing very unusually. I squatted down beside the dog (who did not pay me any attention- -very unusual) and pointed my flashlight in the direction of his muzzle. What I saw at this time nearly stopped my heart: there was a large figure crouched down outside the outer hot-wire in the tall grass beside a telephone pole. My light was reflected back at me by two small circular markers on the pole and further dispersed by the light fog making initial identification very difficult--I immediately thought "bear." To my complete shock, the dog suddenly screamed and leapt straight into the air with its hair bristled. Upon landing, it bolted under a pickup truck and whined like a puppy. As this happened (realize that this all occurred in but several seconds), I saw a creature rise up on TWO legs and begin to move along the hot-wire. I rose to a full standing position and aimed my pistol right on it. In my mind I was thinking "bear, no, horse, no, man, no , God what the F*** is this thing?!" I consciously tracked the creature with my pistol sights and flashlight beam (I was a Military Police Officer in the Army for over 5 years and trained in firearms tactics--it all came back at this moment, let me tell you!) for at least two full seconds in which time I SAW this HUGE THING take off in a full BIPEDAL RUN (the "thud -thud" rhythm and distinct movement of two legs/feet are unmistakable). I was more frightened than I can ever remember being (yeah, I am a grown man!) , and I bolted for the house and immediately armed myself with larger weapons and called my friend's father to come from Grants Pass to search for this thing. Upon his arrival, we drove down to the road outside the hot-wire where I estimated the creature to have been. Since the road was gravel, all we found was disturbed grass as if something large had moved through it--no footprints were located. For the remainder of the night and into the next morning, all the animals in the small community near Wilderville, OR were restless and noisy--the little heeler being the worst off for he did NOT calm down for a whole day. I hope this info is helpful to your research, and I hope that someday we (the population at large) can prove the existence of whatever the hell I saw that night in Southern Oregon.
+
+<img style="max-width:500px;" src="file:///C:/Users/kayla/OneDrive/Desktop/Sasquatch Data Project/Google Earth Images/Oregon/BFRO_680.png">]]></description>
+				<LookAt>
+					<longitude>-123.4836475420616</longitude>
+					<latitude>42.38311879504266</latitude>
+					<altitude>0</altitude>
+					<heading>-60.90144353834103</heading>
+					<tilt>20.97810322207755</tilt>
+					<range>423.2617643258878</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ltblu-blank</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-123.4837197503458,42.38298240849974,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>BFRO_678</name>
+				<description><![CDATA[Where to begin? Rochelle and I took our kids to the Oregon Caves National Park in southern Oregon. We ate lunch at a picnic table and then took a tour of the caves. The caves were spectacular. If you haven’t seen them before, they are a must see experience. Upon our exit of the cave, everyone usually turns to the right to go back down to the gift store and lodge. However, we are fresh from Alaska and love to hike in the outdoors (i.e., we just moved from Alaska to Oregon earlier this year). We decided to go left and hike up to see the Big Tree (i.e., a Douglas fir tree with a circumference of 40 feet that is about 800 to 1,000 years old). We hiked for about 2 miles into the forest up the mountain. As we were hiking up the trail, we smelled a very strong pungent smell. It was as strong as a skunk but it wasn’t a skunk (i.e., we know what a skunk smells like and it wasn’t a skunk even though it was as strong smelling as a skunk). We were standing down wind of the smell. We continued to hike up the trail and the trail started to switch back to the right as we climbed the mountain. There were plenty of tall trees and brush. I heard a faint sound (i.e., “Whoa, Whoa, Whoa, Whoa, Whoa, Whoa!). At first I thought it was the blood vessels pounding in my head because it was a constant sound / rhythm and I’m out of shape (i.e., it was a big mountain and we were constantly walking up, up, up, up). We kept walking up the trail. I heard the sound again except it was louder. Then I thought, “This sound is external – not internal.” We all stopped and I asked, “Do you guys here that sound?” Rochelle, Levi, Hannah, and Micah looked at me and nodded their heads in affirmation. Don’t ask me why but we continued to walk up the mountain through the very tall trees and brush. The sound continued in cycles of five to six repetitions (i.e., Whoa, Whoa, Whoa, Whoa, Whoa, Whoa). Louder and louder. Now the sounds were behind us. I started putting one and one together in my mind and my biological “fight or flight” responses kicked in. I stopped my family on the trail. I told them to stay quiet. I hiked up the hill to our left because I had to go poop ASAP (i.e., this happens when the biological “fight or flight” response kicks in). While I was doing my duty, I was scanning the woods down the mountain on the other side of the trail my family was standing on. That’s when I saw it. I saw it come out from behind one tree to the left and walk to another tree to the right. Then it looked back and was watching my family while they were standing on the trail. I’ve hiked through the woods in Alaska numerous times and believe me, I know what a grizzly bear looks like and I know what a black bear looks like. I was actually chased by a grizzly bear on the Russian river in Alaska about six or seven years ago. What I saw was not a grizzly bear or a black bear. What I saw walked upright on two legs like a human and it was much taller than a grizzly bear or a black bear. What I saw was Bigfoot (otherwise known as Sasquatch). I pulled up my shorts immediately, walked fast down to the trail and got my family moving up the mountain. I sure as heck wasn’t going to go back down the trail where we came from and go right to it. I didn’t tell my wife or children what I saw because I didn’t want them to panic. At this point, the adrenaline was rushing and I was very hypervigilent (i.e., constantly looking behind us and through the woods). The sound stopped but I wasn’t convinced we were safe. When we got to a place where the kids could stop and sit on a fallen log to rest and drink some water, I pulled Rochelle away and told here that she wasn’t going to believe what I saw. She believed me right away. She smelled the smell and she heard the repetitive cycles of “Whoa, Whoa, Whoa, Whoa, Whoa” and she knows I’m not crazy. I told her to keep the kids going and that I would stay at the back to keep my eyes on what was behind us. I told her that if anything came up from behind us or through the woods from the side of us that I would run interference to protect them. I told her that if this happened, I wanted her to run the kids on the trail, don’t stop, and don’t look back. We agreed not to tell the children because we didn’t want to panic them. We never heard the sounds again and I never saw anything after that. We finally made it out of the woods about 1½ hours later. We sent the kids into the gift store to look for a gift because we had promised to buy them something if they were good hikers and didn’t complain. Rochelle and I sat on the bench outside the gift store and talked about the pro’s and con’s of whether or not to report what we smelled, heard, and saw (i.e., I don’t want people to think we are crazy). Rochelle said it was up to me. I decided that I wasn’t going to keep this a secret because it was real and I know I’m sane. I remembered reading about how the albino gorilla was a myth/legend in Africa for quite some time until someone finally captured one. Well I’m here to tell you today (and the world) that Bigfoot/Sasquatch is not a myth/legend. The creature/animal really and truly does exist!! After we made our decision, Rochelle went into the gift shop with the kids. I walked to the Park headquarters and reported what I saw to NPS Ranger Beverly. I sat in the chair stunned and then I began to cry. All these emotions that I was stuffing due to the adrenaline began to surface now that my family and I were safe. You don’t know how vulnerable I felt being so far out in the woods without the ability to protect my family in that kind of situation (i.e., no gun). I told the ranger that I was not crazy. I gave her my business card (i.e., I’m a licensed psychologist in private practice). I told her that I have two master’s degrees and one doctorate degree and that I was an intelligent person. I told her that I know what I smelled, heard, and saw. In between the tears and my shaking, I told her that I saw Bigfoot. She believed me! She didn’t think I was crazy. She said that there is a lot about our world that we don’t know and that we are discovering new species all the time. She took my story, Rochelle’s story, and Levi confirmed what the noise sounded like. I was the only one who saw Bigfoot because I had hiked up off the trail high enough to see it. I can’t tell you what it looked like other than it was very tall, looked half-human and half ape, walked upright, and had very dark hair (i.e., a mix of very dark brown and/or black hair). It happened way too quick and all I could think about after I saw it was to get my family the heck out of there. I’ve done some surfing on the internet and what I saw looked a lot like this picture below. Rochelle and I are willing to talk with anyone. We don’t believe that it is right to have this kind of experience and to hide it from the rest of the world. Please feel free to pass this on to anyone you think would be interested in hearing the truth. This is a true story that just happened today (7-1-2000 shortly after 5pm).
+
+<img style="max-width:500px;" src="file:///C:/Users/kayla/OneDrive/Desktop/Sasquatch Data Project/Google Earth Images/Oregon/BFRO_678.png">]]></description>
+				<LookAt>
+					<longitude>-123.4086344580666</longitude>
+					<latitude>42.09551064329035</latitude>
+					<altitude>0</altitude>
+					<heading>-0.004928509010593966</heading>
+					<tilt>8.64982319015423</tilt>
+					<range>861.6658538221542</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ltblu-blank</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-123.4097625507314,42.09433241308579,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>BFRO_6655</name>
+				<description><![CDATA[I and my now-ex-husband were hiking the Big Tree Trail after going on the Oregon Caves Tour. We were about midway along in the hike, when we heard a loud, deep call. It came from above us on the hillside, starting at our left. It started faintly, and picked-up volume as passed above us on the hillside, and then faded away. It moved quickly... not as quickly as a bird flies, but far faster than a man travels. It was deep, and the quality was such that it seemed far away, yet was clearly audible. It sounded like, "whuh! whuh! whuh! whuh!" The trail cuts through pretty dense forest, and we couldn't see anything. There were no starts and stops to this repetitive call, no slowing of movement judging by the movement of the sound.
+
+<img style="max-width:500px;" src="file:///C:/Users/kayla/OneDrive/Desktop/Sasquatch Data Project/Google Earth Images/Oregon/BFRO_678.png">]]></description>
+				<LookAt>
+					<longitude>-123.4086344580666</longitude>
+					<latitude>42.09551064329035</latitude>
+					<altitude>0</altitude>
+					<heading>-0.004928509010593966</heading>
+					<tilt>8.64982319015423</tilt>
+					<range>861.6658538221542</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-blank0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-123.4111311182021,42.09507203231293,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>BFRO_25445</name>
+				<description><![CDATA[Maybe nothing, but, my wife and I were camped in Fiddler Gulch, (Lat 42.220218 Lon -123.748328 deg.), over the weekend of June 15th, 2008. Several times we heard what sounded like a branch hitting a tree. The sound was the same each time, two cracking sounds spaced about two seconds apart. My wife thinks that the sound may have been heating or cooling of a burnt out tree, cracking as it expands or contracts. We were in the Biscuit fire area. There was not much of a breeze to cause branch movement, so not likely wind. The sound was two measured beats, and was heard just once or twice morning and evening.
+
+<img style="max-width:500px;" src="file:///C:/Users/kayla/OneDrive/Desktop/Sasquatch Data Project/Google Earth Images/Oregon/BFRO_25445.png">]]></description>
+				<LookAt>
+					<longitude>-123.748432941349</longitude>
+					<latitude>42.22017331022749</latitude>
+					<altitude>0</altitude>
+					<heading>-74.35756714136119</heading>
+					<tilt>52.2579025254033</tilt>
+					<range>228.7308970449004</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-blank0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-123.7483034447931,42.22013140256998,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Folder>
+</Document>
+</kml>
